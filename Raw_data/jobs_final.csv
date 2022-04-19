@@ -1,0 +1,246 @@
+,job_id,work_experience_required(in years),job_title,salary_in_usd,employee_residence,company_size,Skill_required_1,Skill_required_2
+0,1,0,Data Science Consultant,64369,Germany,L,Data Science,Data Analytics
+1,2,7,Data Scientist,68428,Greece,L,Data Science,Data Analytics
+2,3,10,Head of Data Science,85000,Russian Federation,M,Data Science,Management
+3,4,10,Head of Data,230000,Russian Federation,L,Statistics,Data Analytics
+4,5,0,Machine Learning Engineer,125000,United States of America,S,Machine Learning,Artificial Intelligence
+5,6,7,Data Analytics Manager,120000,United States of America,M,Management,Data Analytics
+6,7,3,Research Scientist,450000,United States of America,M,Research,science and numerics
+7,8,3,Data Analyst,46759,France,L,Statistics,Data Analytics
+8,9,3,Data Engineer,74130,Austria,L,Data Science,Data Analytics
+9,10,7,Data Science Engineer,127543,Canada,L,Data Science,Data Analytics
+10,11,7,Manager Data Science,144000,United States of America,L,Data Science,Management
+11,12,0,Data Scientist,13400,Ukraine,L,Data Science,Data Analytics
+12,13,3,Data Scientist,75966,Canada,L,Data Science,Data Analytics
+13,14,3,Data Scientist,150000,United States of America,M,Data Science,Data Analytics
+14,15,3,Data Science Consultant,103000,United States of America,L,Data Science,Data Analytics
+15,16,7,Data Engineering Manager,153000,United States of America,L,Data engineer,management
+16,17,3,Data Engineer,90000,United States of America,L,Data Science,Data Analytics
+17,18,0,Data Analyst,90000,United States of America,S,Statistics,Data Analytics
+18,19,0,Data Analyst,60000,United States of America,S,Statistics,Data Analytics
+19,20,3,Data Scientist,50000,Nigeria,L,Data Science,Data Analytics
+20,21,0,AI Scientist,12000,Pakistan,M,Artificial intelligence,Data Science
+21,22,3,3D Computer Vision Researcher,5423,India,M,Computer Vision,Research
+22,23,3,ML Engineer,270000,United States of America,L,Machine Learning,Engineer
+23,24,3,Applied Data Scientist,54376,United Kingdom of Great Britain and Northern Ireland,L,Applied Science,Data Analytics
+24,25,3,Machine Learning Engineer,47681,Spain,S,Machine Learning,Artificial Intelligence
+25,26,10,Director of Data Science,154963,Italy,L,Data Science,Management
+26,27,3,Data Engineer,28801,Poland,L,Data Science,Data Analytics
+27,28,3,Data Analytics Engineer,110000,United States of America,L,Engineer,Data Analytics
+28,29,0,Research Scientist,83000,United Kingdom of Great Britain and Northern Ireland,L,Research,science and numerics
+29,30,0,Machine Learning Engineer,250000,United States of America,L,Machine Learning,Artificial Intelligence
+30,31,0,Data Analyst,59601,France,M,Statistics,Data Analytics
+31,32,7,Data Analyst,80000,Bulgaria,S,Statistics,Data Analytics
+32,33,0,Data Analyst,10000,Nigeria,S,Statistics,Data Analytics
+33,34,0,Machine Learning Engineer,138000,United States of America,S,Machine Learning,Artificial Intelligence
+34,35,3,Data Engineer,140000,United States of America,L,Data Science,Data Analytics
+35,36,7,Data Analytics Engineer,79866,Germany,L,Engineer,Data Analytics
+36,37,7,Lead Data Analyst,170000,United States of America,L,Management,Data Analytics
+37,38,0,Data Analyst,80000,United States of America,M,Statistics,Data Analytics
+38,39,3,Data Scientist,45760,Philippines,S,Data Science,Data Analytics
+39,40,3,BI Data Analyst,100000,United States of America,M,PowerBI,Data Analytics
+40,41,7,Data Scientist,53641,France,L,Data Science,Data Analytics
+41,42,10,Head of Data,235000,United States of America,L,Statistics,Data Analytics
+42,43,10,BI Data Analyst,150000,India,L,PowerBI,Data Analytics
+43,44,10,Data Engineering Manager,79833,Spain,L,Data engineer,management
+44,45,0,Machine Learning Scientist,225000,United States of America,L,Machine Learning,Research
+45,46,0,Data Science Consultant,77481,Germany,S,Data Science,Data Analytics
+46,47,3,Machine Learning Infrastructure Engineer,50180,Portugal,M,Machine Learning,Infrastructure
+47,48,7,Marketing Data Analyst,89402,Greece,L,Marketing,Data Analytics
+48,49,7,Lead Data Engineer,103750,United Kingdom of Great Britain and Northern Ireland,S,Executive,Data engineer
+49,50,7,Director of Data Engineering,114125,United Kingdom of Great Britain and Northern Ireland,M,Executive,Management
+50,51,7,Machine Learning Engineer,95362,Germany,L,Machine Learning,Artificial Intelligence
+51,52,0,Data Engineer,30509,India,L,Data Science,Data Analytics
+52,53,7,Data Engineer,150000,United States of America,M,Data Science,Data Analytics
+53,54,7,Data Engineer,115000,United States of America,S,Data Science,Data Analytics
+54,55,3,Research Scientist,187917,Canada,L,Research,science and numerics
+55,56,3,Data Analyst,51814,United Kingdom of Great Britain and Northern Ireland,L,Statistics,Data Analytics
+56,57,3,Data Engineer,106000,United States of America,L,Data Science,Data Analytics
+57,58,3,Data Engineer,112872,United Kingdom of Great Britain and Northern Ireland,L,Data Science,Data Analytics
+58,59,3,BI Data Analyst,36732,Hungary,L,PowerBI,Data Analytics
+59,60,7,Data Engineer,150000,United States of America,L,Data Science,Data Analytics
+60,61,0,ML Engineer,15966,Germany,S,Machine Learning,Engineer
+61,62,3,Computer Vision Software Engineer,96554,Germany,S,Computer Vision,Software Development
+62,63,0,Computer Vision Software Engineer,70000,United States of America,M,Computer Vision,Software Development
+63,64,3,Financial Data Analyst,450000,United States of America,L,Finance,Data Analytics
+64,65,3,Data Scientist,76958,United Kingdom of Great Britain and Northern Ireland,S,Data Science,Data Analytics
+65,66,3,Cloud Data Engineer,89514,Singapore,L,Cloud computing,Data engineer
+66,67,0,Data Scientist,29831,India,L,Data Science,Data Analytics
+67,68,7,Lead Data Engineer,276000,United States of America,L,Executive,Data engineer
+68,69,7,Data Engineer,188000,United States of America,L,Data Science,Data Analytics
+69,70,7,Cloud Data Engineer,160000,Brazil,S,Cloud computing,Data engineer
+70,71,3,Data Scientist,105000,United States of America,L,Data Science,Data Analytics
+71,72,3,Data Engineer,200000,United States of America,L,Data Science,Data Analytics
+72,73,7,Data Engineering Manager,174000,United States of America,L,Data engineer,management
+73,74,3,Data Analyst,93000,United States of America,L,Statistics,Data Analytics
+74,75,0,Data Scientist,28475,India,M,Data Science,Data Analytics
+75,76,7,Research Scientist,61270,Portugal,L,Research,science and numerics
+76,77,0,Data Scientist,90000,United States of America,S,Data Science,Data Analytics
+77,78,3,Data Engineer,70139,France,L,Data Science,Data Analytics
+78,79,0,Data Analyst,6072,India,S,Statistics,Data Analytics
+79,80,7,Data Engineer,33511,Mexico,S,Data Science,Data Analytics
+80,81,7,Principal Data Analyst,170000,United States of America,M,Executive,Data Analytics
+81,82,7,Data Engineer,96833,United Kingdom of Great Britain and Northern Ireland,L,Data Science,Data Analytics
+82,83,3,Data Engineer,13105,Turkey,M,Data Science,Data Analytics
+83,84,0,Data Scientist,36952,France,L,Data Science,Data Analytics
+84,85,3,Data Engineer,72625,United Kingdom of Great Britain and Northern Ireland,L,Data Science,Data Analytics
+85,86,0,Data Analyst,91000,United States of America,L,Statistics,Data Analytics
+86,87,7,Big Data Architect,99956,Canada,M,DBMS,Hadoop-Apache
+87,88,7,Data Scientist,165000,United States of America,L,Data Science,Data Analytics
+88,89,3,Data Analyst,80000,United States of America,L,Statistics,Data Analytics
+89,90,7,Data Scientist,103954,Canada,L,Data Science,Data Analytics
+90,91,0,Data Engineer,21695,India,M,Data Science,Data Analytics
+91,92,0,Research Scientist,42000,Netherlands,L,Research,science and numerics
+92,93,3,Lead Data Scientist,115000,United Arab Emirates,L,Data Science,Data Analytics
+93,94,3,Research Scientist,63971,Canada,M,Research,science and numerics
+94,95,7,Machine Learning Scientist,260000,Japan,S,Machine Learning,Research
+95,96,3,Head of Data Science,110000,United States of America,S,Data Science,Management
+96,97,3,Data Architect,180000,United States of America,L,DBMS,Data Analytics
+97,98,7,Data Analyst,200000,United States of America,L,Statistics,Data Analytics
+98,99,7,Big Data Engineer,109024,United Kingdom of Great Britain and Northern Ireland,M,DBMS,Hadoop-Apache
+99,100,7,Director of Data Engineering,200000,United States of America,L,Executive,Management
+100,101,7,ML Engineer,256000,United States of America,S,Machine Learning,Engineer
+101,102,3,Data Engineer,110000,United States of America,L,Data Science,Data Analytics
+102,103,3,Data Scientist,79833,Germany,L,Data Science,Data Analytics
+103,104,0,Data Engineer,72500,United States of America,L,Data Science,Data Analytics
+104,105,7,Machine Learning Engineer,185000,United States of America,L,Machine Learning,Artificial Intelligence
+105,106,3,Data Engineer,70329,Netherlands,L,Data Science,Data Analytics
+106,107,0,Research Scientist,100000,Jersey,L,Research,science and numerics
+107,108,3,Data Engineer,112000,United States of America,L,Data Science,Data Analytics
+108,109,7,Machine Learning Engineer,150000,United States of America,L,Machine Learning,Artificial Intelligence
+109,110,7,Data Scientist,21843,Turkey,L,Data Science,Data Analytics
+110,111,7,AI Scientist,55000,Spain,L,Artificial intelligence,Data Science
+111,112,0,Data Scientist,58000,United States of America,L,Data Science,Data Analytics
+112,113,0,Data Scientist,100000,United States of America,M,Data Science,Data Analytics
+113,114,7,Data Scientist,78340,France,M,Data Science,Data Analytics
+114,115,0,Machine Learning Engineer,85000,Netherlands,S,Machine Learning,Artificial Intelligence
+115,116,0,Data Science Consultant,77481,Germany,L,Data Science,Data Analytics
+116,117,7,Staff Data Scientist,105000,United States of America,M,Data Science,Data Analytics
+117,118,0,Data Analyst,72000,United States of America,L,Statistics,Data Analytics
+118,119,0,Data Engineer,65561,Germany,M,Data Science,Data Analytics
+119,120,3,Data Engineer,30337,Turkey,M,Data Science,Data Analytics
+120,121,3,Data Engineer,111775,United States of America,M,Data Science,Data Analytics
+121,122,3,Data Engineer,93150,United States of America,M,Data Science,Data Analytics
+122,123,7,Lead Data Engineer,160000,Puerto Rico,S,Executive,Data engineer
+123,124,3,Data Scientist,25747,Serbia,S,Data Science,Data Analytics
+124,125,7,Machine Learning Engineer,66442,India,L,Machine Learning,Artificial Intelligence
+125,126,3,Data Scientist,16949,India,S,Data Science,Data Analytics
+126,127,7,Data Analyst,64369,Germany,L,Statistics,Data Analytics
+127,128,7,Lead Data Scientist,190000,United States of America,S,Data Science,Data Analytics
+128,129,10,Director of Data Science,143043,Germany,L,Data Science,Management
+129,130,0,Big Data Engineer,16271,India,L,DBMS,Hadoop-Apache
+130,131,7,Data Analyst,71968,Canada,M,Statistics,Data Analytics
+131,132,3,Data Scientist,35735,Hungary,L,Data Science,Data Analytics
+132,133,7,Data Scientist,135000,United States of America,L,Data Science,Data Analytics
+133,134,0,Machine Learning Engineer,25032,Germany,M,Machine Learning,Artificial Intelligence
+134,135,7,Data Science Manager,54238,India,L,Data Science,Management
+135,136,7,Machine Learning Engineer,24407,India,L,Machine Learning,Artificial Intelligence
+136,137,0,BI Data Analyst,9272,Kenya,S,PowerBI,Data Analytics
+137,138,3,Data Scientist,147000,United States of America,L,Data Science,Data Analytics
+138,139,7,Research Scientist,96357,Canada,L,Research,science and numerics
+139,140,7,Data Science Manager,174000,United States of America,L,Data Science,Management
+140,141,3,Business Data Analyst,135000,United States of America,L,PowerBI,Data Analytics
+141,142,0,Machine Learning Engineer,21844,Colombia,M,Machine Learning,Artificial Intelligence
+142,143,7,Lead Data Engineer,125000,New Zealand,S,Executive,Data engineer
+143,144,0,Data Scientist,51321,France,S,Data Science,Data Analytics
+144,145,3,Data Scientist,40481,India,L,Data Science,Data Analytics
+145,146,10,Data Science Consultant,70329,France,S,Data Science,Data Analytics
+146,147,7,Data Analytics Engineer,50000,Viet Nam,M,Engineer,Data Analytics
+147,148,3,Data Engineer,4000,"Iran, Islamic Republic of",M,Data Science,Data Analytics
+148,149,0,Data Scientist,39916,France,M,Data Science,Data Analytics
+149,150,3,Lead Data Analyst,87000,United States of America,L,Management,Data Analytics
+150,151,3,Data Engineer,26224,Romania,L,Data Science,Data Analytics
+151,152,3,Data Scientist,91500,Germany,L,Data Science,Data Analytics
+152,153,3,Big Data Engineer,22671,India,L,DBMS,Hadoop-Apache
+153,154,3,Data Scientist,5695,India,S,Data Science,Data Analytics
+154,155,0,Machine Learning Engineer,81000,United States of America,S,Machine Learning,Artificial Intelligence
+155,156,3,Data Scientist,40798,Chile,L,Data Science,Data Analytics
+156,157,3,Data Scientist,2876,Mexico,S,Data Science,Data Analytics
+157,158,0,Data Science Consultant,90000,United States of America,S,Data Science,Data Analytics
+158,159,3,Data Scientist,61985,Germany,M,Data Science,Data Analytics
+159,160,7,Machine Learning Infrastructure Engineer,195000,United States of America,M,Machine Learning,Infrastructure
+160,161,3,Data Scientist,38144,Spain,L,Data Science,Data Analytics
+161,162,3,Data Analyst,85000,United States of America,L,Statistics,Data Analytics
+162,163,10,Principal Data Scientist,416000,United States of America,S,Executive,Data Science
+163,164,7,Machine Learning Scientist,225000,United States of America,L,Machine Learning,Research
+164,165,3,Data Scientist,56578,United Kingdom of Great Britain and Northern Ireland,L,Data Science,Data Analytics
+165,166,3,Data Scientist,33899,India,M,Data Science,Data Analytics
+166,167,3,Data Scientist,117583,United Kingdom of Great Britain and Northern Ireland,L,Data Science,Data Analytics
+167,168,3,Machine Learning Engineer,47129,Poland,L,Machine Learning,Artificial Intelligence
+168,169,3,Data Analyst,8000,Pakistan,L,Statistics,Data Analytics
+169,170,0,Data Engineer,41689,Japan,S,Data Science,Data Analytics
+170,171,7,Big Data Engineer,114047,Poland,S,DBMS,Hadoop-Apache
+171,172,3,Machine Learning Engineer,89402,Belgium,M,Machine Learning,Artificial Intelligence
+172,173,0,Data Science Consultant,5707,India,M,Data Science,Data Analytics
+173,174,3,Lead Data Engineer,56000,Portugal,M,Executive,Data engineer
+174,175,0,Computer Vision Engineer,28850,Denmark,S,Computer Vision,Deep Learning
+175,176,3,Data Scientist,89402,Germany,L,Data Science,Data Analytics
+176,177,3,Machine Learning Engineer,43331,China,M,Machine Learning,Artificial Intelligence
+177,178,3,Product Data Analyst,6072,India,L,Product Management,Data Analytics
+178,179,7,Data Engineer,47899,Greece,L,Data Science,Data Analytics
+179,180,3,BI Data Analyst,98000,United States of America,M,PowerBI,Data Analytics
+180,181,3,Data Engineer,66400,Hong Kong,S,Data Science,Data Analytics
+181,182,3,Research Scientist,57217,France,S,Research,science and numerics
+182,183,3,Machine Learning Engineer,25032,Slovenia,L,Machine Learning,Artificial Intelligence
+183,184,7,Data Analytics Manager,120000,United States of America,L,Management,Data Analytics
+184,185,3,Data Engineer,20000,Italy,L,Data Science,Data Analytics
+185,186,10,Director of Data Science,325000,United States of America,L,Data Science,Management
+186,187,7,Machine Learning Engineer,200000,United States of America,L,Machine Learning,Artificial Intelligence
+187,188,0,AI Scientist,45896,Denmark,S,Artificial intelligence,Data Science
+188,189,3,Data Scientist,160000,United States of America,L,Data Science,Data Analytics
+189,190,7,Research Scientist,50000,France,S,Research,science and numerics
+190,191,3,Data Science Engineer,40529,Greece,M,Data Science,Data Analytics
+191,192,10,Principal Data Engineer,600000,United States of America,L,Executive,Data Analytics
+192,193,3,Data Scientist,13000,Brazil,S,Data Science,Data Analytics
+193,194,7,Data Engineer,165000,United States of America,M,Data Science,Data Analytics
+194,195,0,Big Data Engineer,5898,India,L,DBMS,Hadoop-Apache
+195,196,3,Data Scientist,42197,France,S,Data Science,Data Analytics
+196,197,7,Principal Data Engineer,185000,United States of America,L,Executive,Data Analytics
+197,198,0,Data Scientist,62726,Germany,S,Data Science,Data Analytics
+198,199,3,Data Scientist,91500,Germany,L,Data Science,Data Analytics
+199,200,0,Data Scientist,21669,Italy,S,Data Science,Data Analytics
+200,201,3,Data Engineer,110000,United States of America,L,Data Science,Data Analytics
+201,202,7,Data Analytics Manager,140000,United States of America,L,Management,Data Analytics
+202,203,7,Data Scientist,120000,United States of America,L,Data Science,Data Analytics
+203,204,7,Data Scientist,87961,Canada,S,Data Science,Data Analytics
+204,205,7,Finance Data Analyst,62250,United Kingdom of Great Britain and Northern Ireland,L,Finance,Data Analytics
+205,206,3,Machine Learning Scientist,12000,Pakistan,M,Machine Learning,Research
+206,207,7,Data Engineer,77481,Romania,S,Data Science,Data Analytics
+207,208,3,Machine Learning Engineer,74000,Japan,S,Machine Learning,Artificial Intelligence
+208,209,7,Data Science Manager,152000,United States of America,L,Data Science,Management
+209,210,3,Big Data Engineer,18000,"Moldova, Republic of",S,DBMS,Hadoop-Apache
+210,211,7,Computer Vision Engineer,60000,Russian Federation,S,Computer Vision,Deep Learning
+211,212,3,Data Scientist,130000,United States of America,L,Data Science,Data Analytics
+212,213,7,Computer Vision Engineer,19052,Brazil,M,Computer Vision,Deep Learning
+213,214,0,Business Data Analyst,59601,Luxembourg,L,PowerBI,Data Analytics
+214,215,7,Principal Data Scientist,175228,Germany,M,Executive,Data Science
+215,216,7,Principal Data Scientist,148261,Germany,M,Executive,Data Science
+216,217,3,Data Scientist,38776,Spain,M,Data Science,Data Analytics
+217,218,3,Data Scientist,47204,Spain,M,Data Science,Data Analytics
+218,219,0,Data Scientist,4000,Viet Nam,M,Data Science,Data Analytics
+219,220,0,AI Scientist,18102,India,S,Artificial intelligence,Data Science
+220,221,7,Data Scientist,91237,Austria,S,Data Science,Data Analytics
+221,222,3,Data Scientist,62726,France,S,Data Science,Data Analytics
+222,223,3,Data Scientist,115000,United States of America,L,Data Science,Data Analytics
+223,224,7,Principal Data Scientist,235000,United States of America,L,Executive,Data Science
+224,225,3,Lead Data Analyst,19661,India,L,Management,Data Analytics
+225,226,0,AI Scientist,12000,Brazil,S,Artificial intelligence,Data Science
+226,227,3,Data Analyst,75000,United States of America,L,Statistics,Data Analytics
+227,228,3,Data Analyst,62000,United States of America,L,Statistics,Data Analytics
+228,229,3,Data Scientist,73000,United States of America,L,Data Science,Data Analytics
+229,230,3,Data Engineer,45773,Netherlands,L,Data Science,Data Analytics
+230,231,7,Data Science Manager,190200,United States of America,M,Data Science,Management
+231,232,3,Data Scientist,118000,United States of America,M,Data Science,Data Analytics
+232,233,3,Data Scientist,138350,United States of America,M,Data Science,Data Analytics
+233,234,3,Data Engineer,130800,Spain,M,Data Science,Data Analytics
+234,235,7,Machine Learning Engineer,45618,Croatia,S,Machine Learning,Artificial Intelligence
+235,236,7,Director of Data Science,168000,Japan,S,Data Science,Management
+236,237,3,Data Scientist,119353,Singapore,M,Data Science,Data Analytics
+237,238,3,Applied Machine Learning Scientist,423000,United States of America,L,Applied Science,Machine Learning
+238,239,3,Data Engineer,28608,Malta,L,Data Science,Data Analytics
+239,240,7,Data Specialist,165000,United States of America,L,DBMS,Data Analytics
+240,241,7,Data Scientist,412000,United States of America,L,Data Science,Data Analytics
+241,242,3,Principal Data Scientist,151000,United States of America,L,Executive,Data Science
+242,243,0,Data Scientist,105000,United States of America,S,Data Science,Data Analytics
+243,244,0,Business Data Analyst,100000,United States of America,L,PowerBI,Data Analytics
+244,245,7,Data Science Manager,94917,India,L,Data Science,Management
