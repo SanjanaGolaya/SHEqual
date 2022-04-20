@@ -1,0 +1,1 @@
+Some of the work done on front end so far has been shared in the folder. As said, just about 40% of the project is ready, and the web application still needs a fully functioning DB connection in order for this to work. So far, just the template and login/sign in code has been written 
