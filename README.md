@@ -1,10 +1,10 @@
 # SHEqual
 Creating STEM opportunities for women - Graph for a better world
-**Contributors: Sanjana Golaya
+**Contributors: Sanjana Golaya**
 
-**Problem Statement: Graph for a Better World - Creating STEM opportunities for women
+**Problem Statement: Graph for a Better World - Creating STEM opportunities for women**
 
-**Description
+**Description**
 
 As the name plays at, this project aims at creating equal STEM opportunities for women. The vision is to increase the percentage of women in STEM workforces by bridging the gap between women and opportunities that are a correct fit for them. As of now the features provided in this tool are:
 
